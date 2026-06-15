@@ -1,4 +1,4 @@
-# 🎓 Student Management System (Java Swing + MySQL)
+Student Management System (Java Swing + MySQL)
 
 A desktop-based Student Management System built using **Java Swing**, **JDBC**, and **MySQL**.  
 This project allows admin to manage students efficiently with CRUD operations and a clean UI.

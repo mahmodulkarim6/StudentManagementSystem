@@ -1,0 +1,32 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\mahmo\Downloads\StudentManagementSystem\StudentManagementSystem.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\mahmo\Downloads\StudentManagementSystem\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-26\bin;C:\Users\mahmo\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\mahmo\AppData\Local\Programs\Python\Python313\;C:\Users\mahmo\AppData\Local\Microsoft\WindowsApps;C:\Users\mahmo\AppData\Roaming\npm;C:\Users\mahmo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\mahmo\AppData\Local\PowerToys\DSCModules\;C:\Program Files\Java\jdk-26\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-26\bin;C:\Users\mahmo\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\mahmo\AppData\Local\Programs\Python\Python313\;C:\Users\mahmo\AppData\Local\Microsoft\WindowsApps;C:\Users\mahmo\AppData\Roaming\npm;C:\Users\mahmo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\mahmo\AppData\Local\PowerToys\DSCModules\;C:\Program Files\Java\jdk-26\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-26\bin\javaw.exe (OK)
+Version string: 1.026.000 / 64-Bit (OK)
+Main class:	Login
+Add classpath:	StudentManagementSystem.jar
+Add classpath:	lib\mysql-connector-j-9.7.0.jar
+Launcher:	C:\Program Files\Java\jdk-26\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\mahmo\Downloads\StudentManagementSystem\StudentManagementSystem.exe;StudentManagementSystem.jar;lib\mysql-connector-j-9.7.0.jar" Login
+Args length:	155/32768 chars
+Exit code:	0

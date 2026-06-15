@@ -1,21 +1,6 @@
-# Compiled Java files
 *.class
-
-# Build folders
-bin/
 out/
-build/
-
-# Executables
+bin/
 *.exe
-
-# Logs
 *.log
-
-# IDE files
 .vscode/
-.idea/
-
-# OS files
-Thumbs.db
-.DS_Store

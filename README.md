@@ -3,7 +3,6 @@
 A desktop-based Student Management System built using **Java Swing**, **JDBC**, and **MySQL**.  
 This project allows admin to manage students efficiently with CRUD operations and a clean UI.
 
----
 
 ## 🚀 Features
 
@@ -17,7 +16,6 @@ This project allows admin to manage students efficiently with CRUD operations an
 - ⚙️ Admin Settings (Username & Password update)
 - 🖥️ Responsive Dashboard UI with Sidebar Navigation
 
----
 
 ## 🛠️ Technologies Used
 
@@ -27,7 +25,6 @@ This project allows admin to manage students efficiently with CRUD operations an
 - MySQ Server
 - Launch4j (Convert JAR to EXE)
 
----
 
 ## 📁 Project Structure
 
@@ -42,7 +39,6 @@ StudentManagementSystem/
 └── README.md
 
 
----
 
 ## 🗄️ Database Setup
 
